@@ -36,4 +36,4 @@ A full-stack Todo application built using **Django** and **React.js**. The app a
 
    cd frontend
    npm install
-   
+   npm run dev
